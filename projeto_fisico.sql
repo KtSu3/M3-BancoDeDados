@@ -1,4 +1,4 @@
--- Criação do Banco de Dados
+-- Criação do Banco
 CREATE DATABASE email_db;
 USE email_db;
 
