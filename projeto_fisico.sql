@@ -1,5 +1,5 @@
 -- Criação do Banco
-CREATE DATABASE email_db;
+CREATE DATABASE IF NOT EXISTS email_db;
 USE email_db;
 
 -- Criação das Tabelas
